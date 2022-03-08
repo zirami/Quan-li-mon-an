@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Quan_li_mon_an_Nhom_16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Quan_li_mon_an_Nhom_16Dlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DangNhap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QL_MON_AN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctdl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MuaHang.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xu_li_de.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QL_HOA_DON.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QL_KHUYENMAI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QL_THONG_KE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThanhToan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThongKeMonAn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Doimk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Quan_li_mon_an_Nhom_16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quan_li_mon_an_Nhom_16Dlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DangNhap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QL_MON_AN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MuaHang.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xu_li_de.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QL_HOA_DON.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QL_KHUYENMAI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QL_THONG_KE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThanhToan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThongKeMonAn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Doimk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="QuanlimonanNhom16.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\QuanlimonanNhom16.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Quan_li_mon_an_Nhom_16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\mon_an1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\monan.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\mon_an3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\mon_an4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap9.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\SANDWICH_lunch_dinner_bread_meat_4446x3145.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\PIZZA_pie_lunch_dinner_1920x1440.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\QUYS.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap14.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap15.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitma\bitmap16.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
